@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstm_32_documentaion=self.webpackChunkstm_32_documentaion||[]).push([[622],{2709:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/STM32/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
